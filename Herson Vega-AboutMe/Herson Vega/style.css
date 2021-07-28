@@ -1,0 +1,52 @@
+body{
+    background-color: seagreen;
+}
+p{
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+.card{
+    height: 600px;
+}
+.card-columns{
+    column-count: 3;
+}
+
+.card-body{
+    background-color: seagreen;
+}
+
+.schools{
+    font-weight: bold;
+    color: darkblue;
+}
+
+
+.myStyle{
+    background-color: tan;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+.hobbies{
+    color: pink;
+}
+.h3{
+    color: rgb(60, 78, 10);
+}
+
+.hobbies{
+    color: purple;
+    font-weight: bold;
+    size: 30px;
+}
+
+.header1{
+    color: rgb(67, 214, 30);
+    font-size: 70px;
+}
+
+.backcolor{
+    background-color: seagreen;
+}
